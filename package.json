@@ -27,7 +27,6 @@
     "race",
     "prom-race"
   ],
-  "typings": "index.d.ts",
   "license": "MIT",
   "repository": "imcuttle/prom-race",
   "jest": {
